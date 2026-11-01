@@ -1,32 +1,32 @@
 [
     {
         "name": "boxed",
-        "title": "Composer",
+        "title": "Music",
         "img": "/assets/bg001.jpg"
     },
     {
         "name": "Four Tony",
-        "title": "3D Artist & Mapper",
+        "title": "Mapping, some models",
         "img": "/assets/bg002.jpg"
     },
     {
         "name": "Mehis",
-        "title": "Creator, Programmer",
+        "title": "Founder, programming",
         "img": "/assets/bg001.jpg"
     },
     {
         "name": "That One Guy",
-        "title": "Sound Designer",
+        "title": "Weapon sounds",
         "img": "/assets/bg003.jpg"
     },
     {
         "name": "The Renegadist",
-        "title": "Lead Designer",
+        "title": "Design & management",
         "img": "/assets/bg002.jpg"
     },
     {
-        "name": "Yeckoh",
-        "title": "3D Artist & Animator",
+        "name": "yeckoh",
+        "title": "Weapons & animations",
         "img": "/assets/bg003.jpg"
     }
 ]
